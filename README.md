@@ -20,3 +20,5 @@ Using Facebook for login and getting user details
     This file contains database credentials
     
    
+*File: users.sql*
+    This file has structure of users database table
